@@ -1,5 +1,5 @@
 [
-{"id": ""date": "100", "date": "14-03-01", "tags": "", "body": "remote test 1"},
-{"id": ""date": "101", "date": "14-03-01", "tags": "", "body": "remote test 2"},
-{"id": ""date": "102", "date": "14-03-01", "tags": "", "body": "remote test 3"}
+{"id": "100", "date": "14-03-01", "tags": "", "body": "remote test 1"},
+{"id": "101", "date": "14-03-01", "tags": "", "body": "remote test 2"},
+{"id": "102", "date": "14-03-01", "tags": "", "body": "remote test 3"}
 ]

@@ -10,6 +10,7 @@
 
 {"id": 100, "date": "14-04-06", "tags": "", "body": "remote test 1"},
 {"id": 101, "date": "14-04-06", "tags": "", "body": "remote test 2"},
-{"id": 101, "date": "14-04-06", "tags": "", "body": "remote test 3"},
-{"id": 102, "date": "14-04-07", "tags": "", "body": "remote test 4"}
+{"id": 102, "date": "14-04-06", "tags": "", "body": "remote test 3"},
+{"id": 103, "date": "14-04-07", "tags": "", "body": "remote test 4"},
+{"id": 104, "date": "14-04-08", "tags": "", "body": "remote test 5"}
 ]
